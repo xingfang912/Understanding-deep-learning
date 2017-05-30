@@ -6,3 +6,7 @@ Library dependencies: Numpy, OpenCV, theano, lasagne
 CNN_library.py contains the ConvNet used in this research. The network is named as the Tiny VGG net.
 
 DECNN_library.py contains the deconvolutional network of the Tiny VGG, namely Deconv_Tiny_VGG.
+
+rafD_data_processing.py is the script for processing the data. The data can be acquired from: http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main
+
+
